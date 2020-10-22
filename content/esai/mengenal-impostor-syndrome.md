@@ -55,7 +55,7 @@ Sebelum membahas _Impostor Syndrome_ ini, saya sarankan untuk anda yang ingin me
 
 ## Apa sih itu _impostor Syndrome_ ?
 
-**Impostor Syndrome** adalah suatu keadaan psikologi dimana seseorang merasakan bahwa pencapaian yang selama ini ia raih dan yang sudah dilihat orang, baik itu ilmu, jabatan, maupun kekayaan, merupakan hasil '_menipu'_ dan bukan apa - apa, sehingga merasa bahwa semua capaian yang sudah diraih hingga sekarang, hanyalah karena sebuah keberuntungan dan kebetulan semata, sehingga merasa tidak pantas dengan semua pencapaian itu bahkan merasa bahwa hal yang sekarang didapat bukanlah sebuah pencapaian dan kemajuan.
+**Impostor Syndrome** adalah suatu keadaan psikologi dimana seseorang merasakan bahwa pencapaian yang selama ini diraih, baik itu ilmu, jabatan, maupun kekayaan, merupakan hasil '_menipu'_ dan bukan apa - apa, dan merasa bahwa semua capaian yang sudah diraih hingga sekarang, hanyalah karena sebuah keberuntungan dan kebetulan semata, sehingga merasa tidak pantas dengan semua pencapaian itu bahkan merasa bahwa hal yang sekarang didapat bukanlah sebuah pencapaian dan kemajuan.
 
 ![Visualisasi Impostor Syndrome](https://rawcdn.githack.com/roniardynt/assets/84b11d7b5345e86248b8ff890d8dedc3c610bf40/images/evl/impostor-visualize.png)
 
