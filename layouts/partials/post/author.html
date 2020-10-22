@@ -1,0 +1,17 @@
+{{ with .Params.Author }}
+<section class="author">
+  {{ with .name }}
+  <p class="author__name">{{ . }}</p>
+  {{ end }} {{ with .image }}
+  <amp-img
+    class="author__image"
+    src="{{ . | absURL }}"
+    layout="fixed"
+    height="100"
+    width="100"
+  ></amp-img>
+  {{ end }} {{ with .bio }}
+  <p class="author__bio">{{ . }}</p>
+  {{ end }}
+</section>
+{{ end }}
