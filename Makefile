@@ -5,7 +5,7 @@ all: update_theme clone_site compile optimize deploy
 NOW = $(shell date)
 GITHUB_ACTOR = Ron
 GITHUB_EMAIL = dev@ron.my.id
-GITHUB_PAGES_REPO = git@github.com:bixamon/bixamon.github.io.git
+GITHUB_PAGES_REPO = git@github.com:bixamon/evl.pink
 
 update_theme:
 	@printf "\033[0;32mUpdating theme submodule...\033[0m\n"
