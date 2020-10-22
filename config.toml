@@ -28,7 +28,7 @@ paginate = 4
     weight = 8
 [[menu.main]]
     identifier = "author"
-    name = "The author"
+    name = "Author"
     url = "https://ron.my.id"
     weight = 9
 [[menu.main]]
@@ -36,6 +36,11 @@ paginate = 4
     name = "Support Us"
     url = "https://saweria.co/bixamon"
     weight = 10
+[[menu.main]]
+    identifier = "lisence"
+    name = "CC BY-NC 4.0"
+    url = "/lisence"
+    weight = 11
 
 # Enable only tags taxonomy
 [taxonomies]
