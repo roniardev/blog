@@ -37,13 +37,15 @@ keywords = ['impostor syndrome', 'psikologi', 'esai']
 
 {{< under-title >}}
 
-### Intro
+{{< toc >}}
+
+## Intro
 
 Ada sebuah podcast yang sangat menarik ketika saya dengar akhir - akhir ini, podcast ini berjudul **"Impostor Syndrome"** yang dibuat oleh Bang Hilman, pendiri [sekolahkoding.com](http://sekolahkoding.com/),\*\* dan sering membagikan pengalaman dan hal - hal diluar teknis mengenai _soft skill_ dan motivasi belajar, di web pribadinya [hilman.space](https://hilman.space/).
 
 Sebelum membahas _Impostor Syndrome_ ini, saya sarankan untuk anda yang ingin mencari dan menguatkan motivasi belajar, terutama belajar pemrograman baik itu otodidak maupun melalui media pembelajaran formal, agar bisa menyisihkan waktu untuk mendengarkan _podcast_ -nya di [tehataukopi.club](https://tehataukopi.club/) dan membaca ebook karya beliau yang berjudul **"Hadiah Untuk Programmer"** [disini](https://sekolahkoding.com/buku/hadiah-untuk-programmer).
 
-### Apa sih itu _impostor Syndrome_ ?
+## Apa sih itu _impostor Syndrome_ ?
 
 **Impostor Syndrome** adalah suatu keadaan psikologi dimana seseorang merasakan bahwa pencapaian yang selama ini ia raih dan yang sudah dilihat orang, baik itu ilmu, jabatan, maupun kekayaan, merupakan hasil '_menipu'_, dan merasa bahwa semua capaian yang sudah diraih hingga sekarang, hanyalah karena sebuah keberuntungan dan kebetulan semata, sehingga merasa tidak pantas dengan semua pencapaian itu.
 
@@ -94,7 +96,7 @@ Tapi disini juga saya akan membagikan cara saya untuk menghadapi Impostor Syndro
 8. Bicara dan minta saran dari orang yang paling dipercaya
 9. Dan yang terpenting, Ingat kepada **Tuhan**.
 
-### **Referensi**
+## Referensi
 
 [Yes, Impostor Syndrome is Real. Here's How to Deal With It](https://time.com/5312483/how-to-deal-with-impostor-syndrome/)
 
