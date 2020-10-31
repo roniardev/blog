@@ -58,17 +58,18 @@ Bisa dibilang Project Open Source adalah project yang "_Dari siapapun, oleh siap
 
 ## Awal Mula
 
-Saat saya ingin ikut berkontribusi, Saya mengalami kebimbangan mencari project yang pantas dilakukan oleh pemula seperti saya untuk ikut berkontribusi didalamnya, nah tidak disangka di timeline Twitter saya Muncul tweet-an dari [Mas Irfan Maulana](https://twitter.com/Maz_Ipan)
+Saat saya ingin ikut berkontribusi, saya mengalami kebimbangan mencari project open source yang cocok untuk pemula seperti saya, nah tidak disangka - sangka di _timeline_ Twitter saya muncul tweet-an dari [**Mas Irfan Maulana**](https://twitter.com/Maz_Ipan)
 
 <blockquote class="twitter-tweet"><p lang="in" dir="ltr">Saya membuka beberapa repository saya buat teman-teman Developer di Indonesia yang mengikuti <a href="https://twitter.com/hashtag/Hacktoberfest?src=hash&amp;ref_src=twsrc%5Etfw">#Hacktoberfest</a><br><br>Silahkan cek repo yang memiliki tag hacktoberfest.<br><br>Saya akan kupas beberapa diantaranya.</p>&mdash; Irfan Maulana (@Maz_Ipan) <a href="https://twitter.com/Maz_Ipan/status/1313115004615315461?ref_src=twsrc%5Etfw">October 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Dan akhirnya saya tertarik untuk berkontribusi di website buku saku pramuka yang beliau buat
+Dan akhirnya saya tertarik untuk berkontribusi di website [**Buku Saku Pramuka**](https://buku-saku-pramuka.vercel.app/) yang beliau buat
 
 <blockquote class="twitter-tweet"><p lang="in" dir="ltr"><a href="https://t.co/BYJTKNvNpe">https://t.co/BYJTKNvNpe</a><br><br>Buku Saku Pramuka: kumpulan sumber daya terkait Pramuka yang saya kumpulkan dari berbagai sumber.<br><br>Tools: Next.js + Tailwind CSS<br><br>Tantangan: mengumpulkan sumber daya yang cukup baik.</p>&mdash; Irfan Maulana (@Maz_Ipan) <a href="https://twitter.com/Maz_Ipan/status/1313116317294030848?ref_src=twsrc%5Etfw">October 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Kontribusi Pertama
 
-Saya mencoba mulai kontribusi di website Buku Saku Pramuka mulai mingu ke 3 Haktoberfest, jadi bisa dibilang telat.
+Saya mencoba mulai kontribusi di website Buku Saku Pramuka mulai minggu ke 2 Haktoberfest, jadi bisa dibilang telat.
+![Hacktoberfest](/images/pertama-kali-kontribusi-open-source/hacktober-progress.png)
 
 Kontribusi yang saya buat yaitu membuat konten dan menata layout konten tersebut dengan JSX berdasarkan _issue_ yang ada.
 
@@ -85,7 +86,9 @@ Sehingga pada minggu berikutnya, saya mencoba lagi ikut kontribusi untuk yang ke
 
 ## Penutup
 
-Bagi saya Ini mau merupakan pengalaman yang berharga dan menyenangkan ikut berkontribusi di project open source, tapi sayang sekali di Hacktoberfest 2020 kali ini saya hanya membuat 2 pull request.
+Bagi saya Ini mau merupakan pengalaman yang berharga dan menyenangkan ikut berkontribusi di project open source, tapi sayang sekali di Hacktoberfest 2020 kali ini saya hanya membuat 2 Pull Request.
 
-Semoga nanti saya diberi kesempatan lagi untuk ikut berkontribusi di proyek open source di tahun-tahun mendatang.
+{{< post-it type="success" title="Yay ! 🎉" >}}
+Semoga nanti saya diberi kesempatan lagi untuk ikut berkontribusi di project open source di tahun-tahun mendatang.
 Aamiin.
+{{< / post-it >}}
