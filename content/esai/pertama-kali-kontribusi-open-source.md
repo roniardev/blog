@@ -27,7 +27,7 @@ keywords = [
     bio="Menulis untuk mengingat dan meninggalkan jejak."
 
 [image]
-    src = "images/pertama-kali-kontribusi-open-source/thumb.png"
+    src = "images/pertama-kali-kontribusi-open-source/thumb.jpg"
 
 [sitemap]
     changefreq = "monthly"
@@ -77,15 +77,7 @@ Saat pertama kali saya membuat **PR** / **Pull Request** untuk kontribusi yang s
 ![PR Pertama](/images/pertama-kali-kontribusi-open-source/pr-pertama.png)
 
 Jadinya saya ditegur oleh Mas Irfan Maulana dan diberikan saran gimana saat pertama kali berkontribusi.
-<<<<<<< HEAD
 ![Saran](/images/pertama-kali-kontribusi-open-source/saran-kontribusi.png)
-=======
-<<<<<<< HEAD
-![Saran](/images/pertama-kali-kontribusi-open-source/saran-kontribusi.png)
-=======
-![Saran](/images/pertama-kali-kontribusi-open-source/saran-kontribusi.jpeg)
->>>>>>> origin/master
->>>>>>> master
 
 Saran dari Mas Irfan sangat berguna sekali dan membantu saya lebih paham dengan git.
 
