@@ -27,7 +27,7 @@ keywords = [
     bio="Menulis untuk mengingat dan meninggalkan jejak."
 
 [image]
-    src = "images/pertama-kali-kontribusi-open-source/thumb.jpg"
+    src = "images/pertama-kali-kontribusi-open-source/thumb.png"
 
 [sitemap]
     changefreq = "monthly"
