@@ -27,7 +27,7 @@ keywords = [
     bio="Menulis untuk mengingat dan meninggalkan jejak."
 
 [image]
-    src = "images/pertama-kali-kontribusi-open-source/thumb.jpg"
+    src = "images/pertama-kali-kontribusi-open-source/thumb.png"
 
 [sitemap]
     changefreq = "monthly"
@@ -80,8 +80,12 @@ Jadinya saya ditegur oleh Mas Irfan Maulana dan diberikan saran gimana saat pert
 <<<<<<< HEAD
 ![Saran](/images/pertama-kali-kontribusi-open-source/saran-kontribusi.png)
 =======
+<<<<<<< HEAD
+![Saran](/images/pertama-kali-kontribusi-open-source/saran-kontribusi.png)
+=======
 ![Saran](/images/pertama-kali-kontribusi-open-source/saran-kontribusi.jpeg)
 >>>>>>> origin/master
+>>>>>>> master
 
 Saran dari Mas Irfan sangat berguna sekali dan membantu saya lebih paham dengan git.
 
