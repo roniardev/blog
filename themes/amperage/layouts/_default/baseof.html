@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html ⚡ lang="{{.Site.LanguageCode}}">
+	<head>
+		{{- partial "head/base.html" . -}}
+	</head>
+	<body>
+		{{- partial "page/auto-ads.html" . -}}
+		{{- partial "page/install-sw.html" . -}}
+		{{- partial "page/analytics.html" . -}}
+		{{- partial "structured-data/base.html" . -}}
+		<header class="header">
+			{{- partial "header/base.html" . -}}
+		</header>
+		<main class="main">
+			{{- block "main" . }}{{- end }}
+		</main>
+		<footer class="footer">
+			{{- partial "footer/base.html" . -}}
+		</footer>
+		{{ if .IsPage }}
+			{{- partial "page/infinite-scroll.html" . -}}
+		{{ end }}
+	</body>
+</html>

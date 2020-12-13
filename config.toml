@@ -1,0 +1,94 @@
+# Default language if you have a multi-language setup
+language = "en"
+
+baseURL = "https://evl.pink"
+
+theme = "amperage"
+
+pygmentsUseClasses = true
+
+# Number of posts shown per page (dafault: 10)
+paginate = 4
+
+# Language sections
+[languages]
+    [languages.en]
+        contentDir = "content"
+        languageName = "English"
+        languageCode = "en"
+        title = "EVL"
+        description = "Menulis untuk mengingat."
+        weight = 1
+
+# Menu elements
+[[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 8
+[[menu.main]]
+    identifier = "author"
+    name = "Author"
+    url = "https://ron.my.id"
+    weight = 9
+[[menu.main]]
+    identifier = "support"
+    name = "Support Us"
+    url = "https://saweria.co/bixamon"
+    weight = 10
+[[menu.main]]
+    identifier = "lisence"
+    name = "CC BY-NC 4.0"
+    url = "/lisence"
+    weight = 11
+
+# Enable only tags taxonomy
+[taxonomies]
+    tag = "tags"
+
+[params]
+    copyright = "EVL" # Name shown on footer copyright
+    themeColor = "#333" # Theme color displayed on mobile browsers
+
+    # Default AMP components for the whole site
+    ampElements = ["amp-iframe", "amp-analytics", "amp-social-share", "amp-install-serviceworker"]
+
+    # Google Analytics code
+    # googleAnalytics = "UA-xxxxxxxxx-x"
+
+    # Adsense publisher code
+    # adsensePublisher = "ca-pub-123456789"
+
+    # Comments Iframe URL
+    # commentsEmbedUrl = "https://bixa.disqus.com/"
+
+    # Social sites for metatags
+    facebookSite = "bixamon"
+    twitterSite = "@bixamon"
+
+    # Structured data elements
+    socialProfiles = ["https://twitter.com/bixamon","https://www.linkedin.com/in/roniardiyanto/","https://github.com/roniardybt"]
+
+    alternatePageName = "EVL"
+    organizationLogo = "logo.png"
+    organizationName = "EVL"
+
+    publisherName = "evl"
+    publisherLogo = "/logo-amp-article.png"
+    publisherLogoWidth = 600
+    publisherLogoHeight = 60
+
+[outputs]
+    home = [ "HTML", "RSS", "SearchIndex"]
+
+[outputFormats]
+    [outputFormats.SearchIndex]
+        mediaType= "application/json"
+        baseName= "search"
+        isPlainText= true
+        notAlternative= true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
