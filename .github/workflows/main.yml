@@ -19,7 +19,7 @@ jobs:
           path: 'themes/amperage'
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2.2.2
+        uses: peaceiris/actions-hugo@2.4.13
         with:
           hugo-version: 'latest'
           extended: true
@@ -36,6 +36,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v2.5.0
         env:
           ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          EXTERNAL_REPOSITORY: bixamon/evl.pink
           PUBLISH_BRANCH: master
           PUBLISH_DIR: ./public
