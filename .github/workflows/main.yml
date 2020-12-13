@@ -19,7 +19,7 @@ jobs:
           path: 'themes/amperage'
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@2.4.13
+        uses: peaceiris/actions-hugo@v2.4.13
         with:
           hugo-version: 'latest'
           extended: true
